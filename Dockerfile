@@ -1,4 +1,4 @@
-FROM prato/autopilot-base:0.1.8
+FROM prato/autopilot-base:next
 
 ENV NGINX_VER 1.11.1
 
